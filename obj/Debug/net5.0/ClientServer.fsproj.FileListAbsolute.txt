@@ -1,0 +1,330 @@
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\obj\Debug\net5.0\ClientServer.AssemblyInfoInputs.cache
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\obj\Debug\net5.0\ClientServer.AssemblyInfo.fs
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\obj\Debug\net5.0\ClientServer.pdb
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ClientServer.exe
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ClientServer.dll.config
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ClientServer.deps.json
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ClientServer.runtimeconfig.json
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ClientServer.runtimeconfig.dev.json
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ClientServer.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ClientServer.pdb
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\FSharp.Control.Reactive.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\FSharp.Core.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\HtmlAgilityPack.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\System.Reactive.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\System.Reactive.Core.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\Unquote.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.Collections.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.Control.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.Core.JavaScript.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.Core.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.InterfaceGenerator.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.JQuery.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.JavaScript.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.Main.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.Sitelets.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.Web.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.AspNetCore.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.Forms.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\IntelliFactory.Xml.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.Html.Client.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.Html.Server.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.UI.Templating.Common.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.UI.Templating.Runtime.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.UI.Templating.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.UI.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\cs\FSharp.Core.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\de\FSharp.Core.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\es\FSharp.Core.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\fr\FSharp.Core.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\it\FSharp.Core.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ja\FSharp.Core.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ko\FSharp.Core.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\pl\FSharp.Core.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\pt-BR\FSharp.Core.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ru\FSharp.Core.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\tr\FSharp.Core.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\zh-Hans\FSharp.Core.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\zh-Hant\FSharp.Core.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\dowSim002.exe
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\fsc.exe
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\FSharp.Build.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\FSharp.Compiler.Interactive.Settings.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\FSharp.Compiler.Private.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\FSharp.DependencyManager.Nuget.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\fsi.exe
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\Microsoft.DotNet.DependencyManager.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\Extreme.Numerics.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\Microsoft.Build.Utilities.Core.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\Microsoft.Build.Tasks.Core.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\System.CodeDom.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\System.Resources.Extensions.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\dowSim002.pdb
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\dowSim002.exe.config
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\cs\FSharp.Build.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\de\FSharp.Build.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\es\FSharp.Build.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\fr\FSharp.Build.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\it\FSharp.Build.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ja\FSharp.Build.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ko\FSharp.Build.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\pl\FSharp.Build.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\pt-BR\FSharp.Build.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ru\FSharp.Build.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\tr\FSharp.Build.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\zh-Hans\FSharp.Build.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\zh-Hant\FSharp.Build.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\cs\FSharp.Compiler.Interactive.Settings.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\de\FSharp.Compiler.Interactive.Settings.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\es\FSharp.Compiler.Interactive.Settings.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\fr\FSharp.Compiler.Interactive.Settings.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\it\FSharp.Compiler.Interactive.Settings.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ja\FSharp.Compiler.Interactive.Settings.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ko\FSharp.Compiler.Interactive.Settings.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\pl\FSharp.Compiler.Interactive.Settings.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\pt-BR\FSharp.Compiler.Interactive.Settings.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ru\FSharp.Compiler.Interactive.Settings.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\tr\FSharp.Compiler.Interactive.Settings.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\zh-Hans\FSharp.Compiler.Interactive.Settings.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\zh-Hant\FSharp.Compiler.Interactive.Settings.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\cs\FSharp.Compiler.Private.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\de\FSharp.Compiler.Private.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\es\FSharp.Compiler.Private.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\fr\FSharp.Compiler.Private.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\it\FSharp.Compiler.Private.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ja\FSharp.Compiler.Private.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ko\FSharp.Compiler.Private.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\pl\FSharp.Compiler.Private.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\pt-BR\FSharp.Compiler.Private.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ru\FSharp.Compiler.Private.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\tr\FSharp.Compiler.Private.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\zh-Hans\FSharp.Compiler.Private.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\zh-Hant\FSharp.Compiler.Private.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\cs\FSharp.DependencyManager.Nuget.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\de\FSharp.DependencyManager.Nuget.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\es\FSharp.DependencyManager.Nuget.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\fr\FSharp.DependencyManager.Nuget.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\it\FSharp.DependencyManager.Nuget.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ja\FSharp.DependencyManager.Nuget.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ko\FSharp.DependencyManager.Nuget.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\pl\FSharp.DependencyManager.Nuget.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\pt-BR\FSharp.DependencyManager.Nuget.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ru\FSharp.DependencyManager.Nuget.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\tr\FSharp.DependencyManager.Nuget.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\zh-Hans\FSharp.DependencyManager.Nuget.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\zh-Hant\FSharp.DependencyManager.Nuget.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\cs\Microsoft.DotNet.DependencyManager.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\de\Microsoft.DotNet.DependencyManager.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\es\Microsoft.DotNet.DependencyManager.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\fr\Microsoft.DotNet.DependencyManager.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\it\Microsoft.DotNet.DependencyManager.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ja\Microsoft.DotNet.DependencyManager.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ko\Microsoft.DotNet.DependencyManager.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\pl\Microsoft.DotNet.DependencyManager.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\pt-BR\Microsoft.DotNet.DependencyManager.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\ru\Microsoft.DotNet.DependencyManager.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\tr\Microsoft.DotNet.DependencyManager.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\zh-Hans\Microsoft.DotNet.DependencyManager.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\zh-Hant\Microsoft.DotNet.DependencyManager.resources.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\obj\Debug\net5.0\ClientServer.fsproj.CopyComplete
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\obj\Debug\net5.0\ClientServer.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\obj\Debug\net5.0\ClientServer.genruntimeconfig.cache
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\obj\Debug\net5.0\ClientServer.MvcApplicationPartsAssemblyInfo.cache
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\App.config
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\appsettings.json
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\Properties\launchSettings.json
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\wsconfig.json
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\WebSharper.AspNetCore.WebSocket.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\obj\Debug\net5.0\staticwebassets\ClientServer.StaticWebAssets.Manifest.cache
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\obj\Debug\net5.0\staticwebassets\ClientServer.StaticWebAssets.xml
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\obj\Debug\net5.0\scopedcss\bundle\ClientServer.styles.css
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\index.html
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\main.html
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\NLog.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\NLog.config
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\System.Runtime.Caching.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\obj\Debug\net5.0\ClientServer.fsprojAssemblyReference.cache
+I:\New folder\bin\Debug\net5.0\App.config
+I:\New folder\bin\Debug\net5.0\appsettings.json
+I:\New folder\bin\Debug\net5.0\Properties\launchSettings.json
+I:\New folder\bin\Debug\net5.0\wsconfig.json
+I:\New folder\bin\Debug\net5.0\ClientServer.exe
+I:\New folder\bin\Debug\net5.0\index.html
+I:\New folder\bin\Debug\net5.0\main.html
+I:\New folder\bin\Debug\net5.0\NLog.config
+I:\New folder\bin\Debug\net5.0\ClientServer.dll.config
+I:\New folder\bin\Debug\net5.0\ClientServer.deps.json
+I:\New folder\bin\Debug\net5.0\ClientServer.runtimeconfig.json
+I:\New folder\bin\Debug\net5.0\ClientServer.runtimeconfig.dev.json
+I:\New folder\bin\Debug\net5.0\ClientServer.dll
+I:\New folder\bin\Debug\net5.0\ClientServer.pdb
+I:\New folder\bin\Debug\net5.0\FSharp.Control.Reactive.dll
+I:\New folder\bin\Debug\net5.0\FSharp.Core.dll
+I:\New folder\bin\Debug\net5.0\HtmlAgilityPack.dll
+I:\New folder\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+I:\New folder\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+I:\New folder\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\New folder\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+I:\New folder\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+I:\New folder\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\New folder\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+I:\New folder\bin\Debug\net5.0\NLog.dll
+I:\New folder\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+I:\New folder\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+I:\New folder\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+I:\New folder\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+I:\New folder\bin\Debug\net5.0\System.Reactive.dll
+I:\New folder\bin\Debug\net5.0\System.Reactive.Core.dll
+I:\New folder\bin\Debug\net5.0\System.Runtime.Caching.dll
+I:\New folder\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+I:\New folder\bin\Debug\net5.0\Unquote.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.Collections.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.Control.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.Core.JavaScript.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.Core.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.InterfaceGenerator.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.JQuery.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.JavaScript.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.Main.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.Sitelets.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.Web.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.AspNetCore.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.AspNetCore.WebSocket.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.Forms.dll
+I:\New folder\bin\Debug\net5.0\IntelliFactory.Xml.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.Html.Client.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.Html.Server.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.UI.Templating.Common.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.UI.Templating.Runtime.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.UI.Templating.dll
+I:\New folder\bin\Debug\net5.0\WebSharper.UI.dll
+I:\New folder\bin\Debug\net5.0\cs\FSharp.Core.resources.dll
+I:\New folder\bin\Debug\net5.0\de\FSharp.Core.resources.dll
+I:\New folder\bin\Debug\net5.0\es\FSharp.Core.resources.dll
+I:\New folder\bin\Debug\net5.0\fr\FSharp.Core.resources.dll
+I:\New folder\bin\Debug\net5.0\it\FSharp.Core.resources.dll
+I:\New folder\bin\Debug\net5.0\ja\FSharp.Core.resources.dll
+I:\New folder\bin\Debug\net5.0\ko\FSharp.Core.resources.dll
+I:\New folder\bin\Debug\net5.0\pl\FSharp.Core.resources.dll
+I:\New folder\bin\Debug\net5.0\pt-BR\FSharp.Core.resources.dll
+I:\New folder\bin\Debug\net5.0\ru\FSharp.Core.resources.dll
+I:\New folder\bin\Debug\net5.0\tr\FSharp.Core.resources.dll
+I:\New folder\bin\Debug\net5.0\zh-Hans\FSharp.Core.resources.dll
+I:\New folder\bin\Debug\net5.0\zh-Hant\FSharp.Core.resources.dll
+I:\New folder\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\New folder\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\New folder\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\New folder\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\New folder\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\New folder\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\New folder\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\New folder\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\New folder\bin\Debug\net5.0\fsc.exe
+I:\New folder\bin\Debug\net5.0\FSharp.Build.dll
+I:\New folder\bin\Debug\net5.0\FSharp.Compiler.Interactive.Settings.dll
+I:\New folder\bin\Debug\net5.0\FSharp.Compiler.Private.dll
+I:\New folder\bin\Debug\net5.0\FSharp.DependencyManager.Nuget.dll
+I:\New folder\bin\Debug\net5.0\fsi.exe
+I:\New folder\bin\Debug\net5.0\Microsoft.DotNet.DependencyManager.dll
+I:\New folder\bin\Debug\net5.0\Microsoft.Build.Utilities.Core.dll
+I:\New folder\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+I:\New folder\bin\Debug\net5.0\Microsoft.Build.Tasks.Core.dll
+I:\New folder\bin\Debug\net5.0\System.CodeDom.dll
+I:\New folder\bin\Debug\net5.0\System.Resources.Extensions.dll
+I:\New folder\bin\Debug\net5.0\cs\FSharp.Build.resources.dll
+I:\New folder\bin\Debug\net5.0\de\FSharp.Build.resources.dll
+I:\New folder\bin\Debug\net5.0\es\FSharp.Build.resources.dll
+I:\New folder\bin\Debug\net5.0\fr\FSharp.Build.resources.dll
+I:\New folder\bin\Debug\net5.0\it\FSharp.Build.resources.dll
+I:\New folder\bin\Debug\net5.0\ja\FSharp.Build.resources.dll
+I:\New folder\bin\Debug\net5.0\ko\FSharp.Build.resources.dll
+I:\New folder\bin\Debug\net5.0\pl\FSharp.Build.resources.dll
+I:\New folder\bin\Debug\net5.0\pt-BR\FSharp.Build.resources.dll
+I:\New folder\bin\Debug\net5.0\ru\FSharp.Build.resources.dll
+I:\New folder\bin\Debug\net5.0\tr\FSharp.Build.resources.dll
+I:\New folder\bin\Debug\net5.0\zh-Hans\FSharp.Build.resources.dll
+I:\New folder\bin\Debug\net5.0\zh-Hant\FSharp.Build.resources.dll
+I:\New folder\bin\Debug\net5.0\cs\FSharp.Compiler.Interactive.Settings.resources.dll
+I:\New folder\bin\Debug\net5.0\de\FSharp.Compiler.Interactive.Settings.resources.dll
+I:\New folder\bin\Debug\net5.0\es\FSharp.Compiler.Interactive.Settings.resources.dll
+I:\New folder\bin\Debug\net5.0\fr\FSharp.Compiler.Interactive.Settings.resources.dll
+I:\New folder\bin\Debug\net5.0\it\FSharp.Compiler.Interactive.Settings.resources.dll
+I:\New folder\bin\Debug\net5.0\ja\FSharp.Compiler.Interactive.Settings.resources.dll
+I:\New folder\bin\Debug\net5.0\ko\FSharp.Compiler.Interactive.Settings.resources.dll
+I:\New folder\bin\Debug\net5.0\pl\FSharp.Compiler.Interactive.Settings.resources.dll
+I:\New folder\bin\Debug\net5.0\pt-BR\FSharp.Compiler.Interactive.Settings.resources.dll
+I:\New folder\bin\Debug\net5.0\ru\FSharp.Compiler.Interactive.Settings.resources.dll
+I:\New folder\bin\Debug\net5.0\tr\FSharp.Compiler.Interactive.Settings.resources.dll
+I:\New folder\bin\Debug\net5.0\zh-Hans\FSharp.Compiler.Interactive.Settings.resources.dll
+I:\New folder\bin\Debug\net5.0\zh-Hant\FSharp.Compiler.Interactive.Settings.resources.dll
+I:\New folder\bin\Debug\net5.0\cs\FSharp.Compiler.Private.resources.dll
+I:\New folder\bin\Debug\net5.0\de\FSharp.Compiler.Private.resources.dll
+I:\New folder\bin\Debug\net5.0\es\FSharp.Compiler.Private.resources.dll
+I:\New folder\bin\Debug\net5.0\fr\FSharp.Compiler.Private.resources.dll
+I:\New folder\bin\Debug\net5.0\it\FSharp.Compiler.Private.resources.dll
+I:\New folder\bin\Debug\net5.0\ja\FSharp.Compiler.Private.resources.dll
+I:\New folder\bin\Debug\net5.0\ko\FSharp.Compiler.Private.resources.dll
+I:\New folder\bin\Debug\net5.0\pl\FSharp.Compiler.Private.resources.dll
+I:\New folder\bin\Debug\net5.0\pt-BR\FSharp.Compiler.Private.resources.dll
+I:\New folder\bin\Debug\net5.0\ru\FSharp.Compiler.Private.resources.dll
+I:\New folder\bin\Debug\net5.0\tr\FSharp.Compiler.Private.resources.dll
+I:\New folder\bin\Debug\net5.0\zh-Hans\FSharp.Compiler.Private.resources.dll
+I:\New folder\bin\Debug\net5.0\zh-Hant\FSharp.Compiler.Private.resources.dll
+I:\New folder\bin\Debug\net5.0\cs\FSharp.DependencyManager.Nuget.resources.dll
+I:\New folder\bin\Debug\net5.0\de\FSharp.DependencyManager.Nuget.resources.dll
+I:\New folder\bin\Debug\net5.0\es\FSharp.DependencyManager.Nuget.resources.dll
+I:\New folder\bin\Debug\net5.0\fr\FSharp.DependencyManager.Nuget.resources.dll
+I:\New folder\bin\Debug\net5.0\it\FSharp.DependencyManager.Nuget.resources.dll
+I:\New folder\bin\Debug\net5.0\ja\FSharp.DependencyManager.Nuget.resources.dll
+I:\New folder\bin\Debug\net5.0\ko\FSharp.DependencyManager.Nuget.resources.dll
+I:\New folder\bin\Debug\net5.0\pl\FSharp.DependencyManager.Nuget.resources.dll
+I:\New folder\bin\Debug\net5.0\pt-BR\FSharp.DependencyManager.Nuget.resources.dll
+I:\New folder\bin\Debug\net5.0\ru\FSharp.DependencyManager.Nuget.resources.dll
+I:\New folder\bin\Debug\net5.0\tr\FSharp.DependencyManager.Nuget.resources.dll
+I:\New folder\bin\Debug\net5.0\zh-Hans\FSharp.DependencyManager.Nuget.resources.dll
+I:\New folder\bin\Debug\net5.0\zh-Hant\FSharp.DependencyManager.Nuget.resources.dll
+I:\New folder\bin\Debug\net5.0\cs\Microsoft.DotNet.DependencyManager.resources.dll
+I:\New folder\bin\Debug\net5.0\de\Microsoft.DotNet.DependencyManager.resources.dll
+I:\New folder\bin\Debug\net5.0\es\Microsoft.DotNet.DependencyManager.resources.dll
+I:\New folder\bin\Debug\net5.0\fr\Microsoft.DotNet.DependencyManager.resources.dll
+I:\New folder\bin\Debug\net5.0\it\Microsoft.DotNet.DependencyManager.resources.dll
+I:\New folder\bin\Debug\net5.0\ja\Microsoft.DotNet.DependencyManager.resources.dll
+I:\New folder\bin\Debug\net5.0\ko\Microsoft.DotNet.DependencyManager.resources.dll
+I:\New folder\bin\Debug\net5.0\pl\Microsoft.DotNet.DependencyManager.resources.dll
+I:\New folder\bin\Debug\net5.0\pt-BR\Microsoft.DotNet.DependencyManager.resources.dll
+I:\New folder\bin\Debug\net5.0\ru\Microsoft.DotNet.DependencyManager.resources.dll
+I:\New folder\bin\Debug\net5.0\tr\Microsoft.DotNet.DependencyManager.resources.dll
+I:\New folder\bin\Debug\net5.0\zh-Hans\Microsoft.DotNet.DependencyManager.resources.dll
+I:\New folder\bin\Debug\net5.0\zh-Hant\Microsoft.DotNet.DependencyManager.resources.dll
+I:\New folder\obj\Debug\net5.0\ClientServer.fsprojAssemblyReference.cache
+I:\New folder\obj\Debug\net5.0\ClientServer.AssemblyInfoInputs.cache
+I:\New folder\obj\Debug\net5.0\ClientServer.AssemblyInfo.fs
+I:\New folder\obj\Debug\net5.0\ClientServer.MvcApplicationPartsAssemblyInfo.cache
+I:\New folder\obj\Debug\net5.0\staticwebassets\ClientServer.StaticWebAssets.Manifest.cache
+I:\New folder\obj\Debug\net5.0\staticwebassets\ClientServer.StaticWebAssets.xml
+I:\New folder\obj\Debug\net5.0\scopedcss\bundle\ClientServer.styles.css
+I:\New folder\obj\Debug\net5.0\ClientServer.fsproj.CopyComplete
+I:\New folder\obj\Debug\net5.0\ClientServer.dll
+I:\New folder\obj\Debug\net5.0\ClientServer.pdb
+I:\New folder\obj\Debug\net5.0\ClientServer.genruntimeconfig.cache

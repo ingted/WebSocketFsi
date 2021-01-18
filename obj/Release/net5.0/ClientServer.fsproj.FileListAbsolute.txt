@@ -1,0 +1,3 @@
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\obj\Release\net5.0\ClientServer.fsprojAssemblyReference.cache
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\obj\Release\net5.0\ClientServer.AssemblyInfoInputs.cache
+Z:\SharFTrade\mdc\FAkka.Shared\UI\fsiWeb.lib\obj\Release\net5.0\ClientServer.AssemblyInfo.fs

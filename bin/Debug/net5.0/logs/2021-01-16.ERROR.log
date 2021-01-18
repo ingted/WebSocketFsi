@@ -1,0 +1,2 @@
+2021-01-16 19:31:54.0425|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HM5Q299HKECQ", Request id "0HM5Q299HKECQ:00000002": An unhandled exception was thrown by the application.
+2021-01-16 19:31:54.0425|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HM5Q299HKECR", Request id "0HM5Q299HKECR:00000002": An unhandled exception was thrown by the application.

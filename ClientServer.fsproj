@@ -1,0 +1,99 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="NLog.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="NLog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="index.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="main.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="App.config" />
+    <None Include="snk.snk" />
+    <None Include="FsiSessionOld.fs" />
+    <Compile Include="Fsi.Util.fsx" />
+    <Compile Include="Server.fs" />
+    <Compile Include="Client.fs" />
+    <Compile Include="Site.fs" />
+    <Compile Include="Startup.fs" />
+    <Content Include="ws.txt" />
+    <None Include="wsconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FSharp.Control.Reactive" Version="4.5.0" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.29" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="2.1.1" />
+    <PackageReference Include="NLog" Version="4.7.6" />
+    <PackageReference Include="NLog.Extensions.Logging" Version="1.7.0" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.10.0" />
+    <PackageReference Include="System.Buffers" Version="4.5.1" />
+    <PackageReference Include="System.Collections.Immutable" Version="5.0.0" />
+    <PackageReference Include="System.Memory" Version="4.5.4" />
+    <PackageReference Include="System.Numerics.Vectors" Version="4.5.0" />
+    <PackageReference Include="System.Reactive" Version="5.0.0" />
+    <PackageReference Include="System.Reactive.Core" Version="5.0.0" />
+    <PackageReference Include="System.Reflection.Metadata" Version="5.0.0" />
+    <PackageReference Include="System.Threading.Tasks.Extensions" Version="4.5.4" />
+    <PackageReference Include="System.ValueTuple" Version="4.5.0" />
+    <PackageReference Include="System.Xml.XDocument" Version="4.3.0" />
+    <PackageReference Include="Unquote" Version="5.0.0" />
+    <PackageReference Include="WebSharper" Version="4.7.0.423" />
+    <PackageReference Include="WebSharper.AspNetCore.WebSocket" Version="4.7.0.157" />
+    <PackageReference Include="WebSharper.Forms" Version="4.7.0.258" />    
+    <PackageReference Include="WebSharper.FSharp" Version="4.7.0.423" />    
+    <PackageReference Include="WebSharper.Html" Version="4.7.0.189" />
+    <PackageReference Include="WebSharper.AspNetCore" Version="4.7.0.157" />
+    <PackageReference Include="WebSharper.UI" Version="4.7.0.231" />
+    <PackageReference Include="WebSharper.UI.Next" Version="4.7.0.235" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="fsc">
+      <HintPath>C:\Program Files\dotnet\sdk\5.0.100\FSharp\fsc.exe</HintPath>
+    </Reference>
+    <Reference Include="FSharp.Build">
+      <HintPath>C:\Program Files\dotnet\sdk\5.0.100\FSharp\FSharp.Build.dll</HintPath>
+    </Reference>
+    <Reference Include="FSharp.Compiler.Interactive.Settings">
+      <HintPath>C:\Program Files\dotnet\sdk\5.0.100\FSharp\FSharp.Compiler.Interactive.Settings.dll</HintPath>
+    </Reference>
+    <Reference Include="FSharp.Compiler.Private">
+      <HintPath>C:\Program Files\dotnet\sdk\5.0.100\FSharp\FSharp.Compiler.Private.dll</HintPath>
+    </Reference>
+    <Reference Include="FSharp.DependencyManager.Nuget">
+      <HintPath>C:\Program Files\dotnet\sdk\5.0.100\FSharp\FSharp.DependencyManager.Nuget.dll</HintPath>
+    </Reference>
+    <Reference Include="fsi">
+      <HintPath>C:\Program Files\dotnet\sdk\5.0.100\FSharp\fsi.exe</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DotNet.DependencyManager">
+      <HintPath>C:\Program Files\dotnet\sdk\5.0.100\FSharp\Microsoft.DotNet.DependencyManager.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Update="FSharp.Core" Version="5.0.0" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="powershell -c &quot;\&quot;pwd\&quot;&quot;&#xD;&#xA;powershell -c &quot;(pwd).Path&quot;&#xD;&#xA;powershell -c &quot;copy wwwroot bin/debug/net5.0 -force -Recurse&quot;&#xD;&#xA;powershell -c &quot;copy wwwroot ../../bin/net5.0 -force -Recurse&quot;&#xD;&#xA;powershell -c &quot;get-date&quot;" />
+  </Target>
+
+
+</Project>

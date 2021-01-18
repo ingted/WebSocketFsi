@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\anibal\.nuget\packages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.9.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="$([MSBuild]::EnsureTrailingSlash($(NuGetPackageFolders)))" />
+  </ItemGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\anibal\.nuget\packages\fsharp.core\5.0.0</PkgFSharp_Core>
+    <PkgWebSharper Condition=" '$(PkgWebSharper)' == '' ">C:\Users\anibal\.nuget\packages\websharper\4.7.0.423</PkgWebSharper>
+    <PkgWebSharper_UI_Next Condition=" '$(PkgWebSharper_UI_Next)' == '' ">C:\Users\anibal\.nuget\packages\websharper.ui.next\4.7.0.235</PkgWebSharper_UI_Next>
+    <PkgHtmlAgilityPack Condition=" '$(PkgHtmlAgilityPack)' == '' ">C:\Users\anibal\.nuget\packages\htmlagilitypack\1.11.29</PkgHtmlAgilityPack>
+    <PkgWebSharper_UI Condition=" '$(PkgWebSharper_UI)' == '' ">C:\Users\anibal\.nuget\packages\websharper.ui\4.7.0.231</PkgWebSharper_UI>
+    <PkgWebSharper_Html Condition=" '$(PkgWebSharper_Html)' == '' ">C:\Users\anibal\.nuget\packages\websharper.html\4.7.0.189</PkgWebSharper_Html>
+    <PkgWebSharper_FSharp Condition=" '$(PkgWebSharper_FSharp)' == '' ">C:\Users\anibal\.nuget\packages\websharper.fsharp\4.7.0.423</PkgWebSharper_FSharp>
+    <PkgWebSharper_Forms Condition=" '$(PkgWebSharper_Forms)' == '' ">C:\Users\anibal\.nuget\packages\websharper.forms\4.7.0.258</PkgWebSharper_Forms>
+    <PkgWebSharper_AspNetCore Condition=" '$(PkgWebSharper_AspNetCore)' == '' ">C:\Users\anibal\.nuget\packages\websharper.aspnetcore\4.7.0.157</PkgWebSharper_AspNetCore>
+    <PkgWebSharper_AspNetCore_WebSocket Condition=" '$(PkgWebSharper_AspNetCore_WebSocket)' == '' ">C:\Users\anibal\.nuget\packages\websharper.aspnetcore.websocket\4.7.0.157</PkgWebSharper_AspNetCore_WebSocket>
+    <PkgUnquote Condition=" '$(PkgUnquote)' == '' ">C:\Users\anibal\.nuget\packages\unquote\5.0.0</PkgUnquote>
+    <PkgSystem_Threading_Tasks_Extensions Condition=" '$(PkgSystem_Threading_Tasks_Extensions)' == '' ">C:\Users\anibal\.nuget\packages\system.threading.tasks.extensions\4.5.4</PkgSystem_Threading_Tasks_Extensions>
+    <PkgSystem_Xml_XDocument Condition=" '$(PkgSystem_Xml_XDocument)' == '' ">C:\Users\anibal\.nuget\packages\system.xml.xdocument\4.3.0</PkgSystem_Xml_XDocument>
+    <PkgSystem_ValueTuple Condition=" '$(PkgSystem_ValueTuple)' == '' ">C:\Users\anibal\.nuget\packages\system.valuetuple\4.5.0</PkgSystem_ValueTuple>
+    <PkgSystem_Reflection_Metadata Condition=" '$(PkgSystem_Reflection_Metadata)' == '' ">C:\Users\anibal\.nuget\packages\system.reflection.metadata\5.0.0</PkgSystem_Reflection_Metadata>
+    <PkgSystem_Reactive Condition=" '$(PkgSystem_Reactive)' == '' ">C:\Users\anibal\.nuget\packages\system.reactive\5.0.0</PkgSystem_Reactive>
+    <PkgSystem_Reactive_Core Condition=" '$(PkgSystem_Reactive_Core)' == '' ">C:\Users\anibal\.nuget\packages\system.reactive.core\5.0.0</PkgSystem_Reactive_Core>
+    <PkgSystem_Numerics_Vectors Condition=" '$(PkgSystem_Numerics_Vectors)' == '' ">C:\Users\anibal\.nuget\packages\system.numerics.vectors\4.5.0</PkgSystem_Numerics_Vectors>
+    <PkgSystem_Memory Condition=" '$(PkgSystem_Memory)' == '' ">C:\Users\anibal\.nuget\packages\system.memory\4.5.4</PkgSystem_Memory>
+    <PkgSystem_Collections_Immutable Condition=" '$(PkgSystem_Collections_Immutable)' == '' ">C:\Users\anibal\.nuget\packages\system.collections.immutable\5.0.0</PkgSystem_Collections_Immutable>
+    <PkgSystem_Buffers Condition=" '$(PkgSystem_Buffers)' == '' ">C:\Users\anibal\.nuget\packages\system.buffers\4.5.1</PkgSystem_Buffers>
+    <PkgNLog Condition=" '$(PkgNLog)' == '' ">C:\Users\anibal\.nuget\packages\nlog\4.7.6</PkgNLog>
+    <PkgNLog_Extensions_Logging Condition=" '$(PkgNLog_Extensions_Logging)' == '' ">C:\Users\anibal\.nuget\packages\nlog.extensions.logging\1.7.0</PkgNLog_Extensions_Logging>
+    <PkgNLog_Web_AspNetCore Condition=" '$(PkgNLog_Web_AspNetCore)' == '' ">C:\Users\anibal\.nuget\packages\nlog.web.aspnetcore\4.10.0</PkgNLog_Web_AspNetCore>
+    <PkgMicrosoft_Data_SqlClient Condition=" '$(PkgMicrosoft_Data_SqlClient)' == '' ">C:\Users\anibal\.nuget\packages\microsoft.data.sqlclient\2.1.1</PkgMicrosoft_Data_SqlClient>
+    <PkgFSharp_Control_Reactive Condition=" '$(PkgFSharp_Control_Reactive)' == '' ">C:\Users\anibal\.nuget\packages\fsharp.control.reactive\4.5.0</PkgFSharp_Control_Reactive>
+  </PropertyGroup>
+</Project>
